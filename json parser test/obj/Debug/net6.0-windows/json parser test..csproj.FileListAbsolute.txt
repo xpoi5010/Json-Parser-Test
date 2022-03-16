@@ -1,0 +1,19 @@
+C:\Users\xpoi5\source\repos\json parser test\json parser test\bin\Debug\net6.0-windows\json parser test..exe
+C:\Users\xpoi5\source\repos\json parser test\json parser test\bin\Debug\net6.0-windows\json parser test..deps.json
+C:\Users\xpoi5\source\repos\json parser test\json parser test\bin\Debug\net6.0-windows\json parser test..runtimeconfig.json
+C:\Users\xpoi5\source\repos\json parser test\json parser test\bin\Debug\net6.0-windows\json parser test..dll
+C:\Users\xpoi5\source\repos\json parser test\json parser test\bin\Debug\net6.0-windows\json parser test..pdb
+C:\Users\xpoi5\source\repos\json parser test\json parser test\obj\Debug\net6.0-windows\json parser test..csproj.AssemblyReference.cache
+C:\Users\xpoi5\source\repos\json parser test\json parser test\obj\Debug\net6.0-windows\json_parser_test_.Form1.resources
+C:\Users\xpoi5\source\repos\json parser test\json parser test\obj\Debug\net6.0-windows\json parser test..csproj.GenerateResource.cache
+C:\Users\xpoi5\source\repos\json parser test\json parser test\obj\Debug\net6.0-windows\json parser test..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xpoi5\source\repos\json parser test\json parser test\obj\Debug\net6.0-windows\json parser test..AssemblyInfoInputs.cache
+C:\Users\xpoi5\source\repos\json parser test\json parser test\obj\Debug\net6.0-windows\json parser test..AssemblyInfo.cs
+C:\Users\xpoi5\source\repos\json parser test\json parser test\obj\Debug\net6.0-windows\json parser test..csproj.CoreCompileInputs.cache
+C:\Users\xpoi5\source\repos\json parser test\json parser test\obj\Debug\net6.0-windows\json parser test..dll
+C:\Users\xpoi5\source\repos\json parser test\json parser test\obj\Debug\net6.0-windows\refint\json parser test..dll
+C:\Users\xpoi5\source\repos\json parser test\json parser test\obj\Debug\net6.0-windows\json parser test..pdb
+C:\Users\xpoi5\source\repos\json parser test\json parser test\obj\Debug\net6.0-windows\json parser test..genruntimeconfig.cache
+C:\Users\xpoi5\source\repos\json parser test\json parser test\obj\Debug\net6.0-windows\ref\json parser test..dll
+C:\Users\xpoi5\source\repos\json parser test\json parser test\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\xpoi5\source\repos\json parser test\json parser test\obj\Debug\net6.0-windows\json parser test..csproj.CopyComplete
