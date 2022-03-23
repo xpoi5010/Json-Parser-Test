@@ -1,0 +1,12 @@
+C:\Users\xpoi5\source\repos\json parser test\eP Json Parser\bin\Release\net6.0\eP Json Parser.deps.json
+C:\Users\xpoi5\source\repos\json parser test\eP Json Parser\bin\Release\net6.0\eP Json Parser.dll
+C:\Users\xpoi5\source\repos\json parser test\eP Json Parser\bin\Release\net6.0\eP Json Parser.pdb
+C:\Users\xpoi5\source\repos\json parser test\eP Json Parser\obj\Release\net6.0\eP Json Parser.csproj.AssemblyReference.cache
+C:\Users\xpoi5\source\repos\json parser test\eP Json Parser\obj\Release\net6.0\eP Json Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xpoi5\source\repos\json parser test\eP Json Parser\obj\Release\net6.0\eP Json Parser.AssemblyInfoInputs.cache
+C:\Users\xpoi5\source\repos\json parser test\eP Json Parser\obj\Release\net6.0\eP Json Parser.AssemblyInfo.cs
+C:\Users\xpoi5\source\repos\json parser test\eP Json Parser\obj\Release\net6.0\eP Json Parser.csproj.CoreCompileInputs.cache
+C:\Users\xpoi5\source\repos\json parser test\eP Json Parser\obj\Release\net6.0\eP Json Parser.dll
+C:\Users\xpoi5\source\repos\json parser test\eP Json Parser\obj\Release\net6.0\refint\eP Json Parser.dll
+C:\Users\xpoi5\source\repos\json parser test\eP Json Parser\obj\Release\net6.0\eP Json Parser.pdb
+C:\Users\xpoi5\source\repos\json parser test\eP Json Parser\obj\Release\net6.0\ref\eP Json Parser.dll

@@ -17,3 +17,5 @@ C:\Users\xpoi5\source\repos\json parser test\json parser test\obj\Debug\net6.0-w
 C:\Users\xpoi5\source\repos\json parser test\json parser test\obj\Debug\net6.0-windows\ref\json parser test..dll
 C:\Users\xpoi5\source\repos\json parser test\json parser test\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
 C:\Users\xpoi5\source\repos\json parser test\json parser test\obj\Debug\net6.0-windows\json parser test..csproj.CopyComplete
+C:\Users\xpoi5\source\repos\json parser test\json parser test\bin\Debug\net6.0-windows\eP Json Parser.dll
+C:\Users\xpoi5\source\repos\json parser test\json parser test\bin\Debug\net6.0-windows\eP Json Parser.pdb

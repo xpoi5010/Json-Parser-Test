@@ -10,6 +10,16 @@
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
+      },
+      "eP Json Parser/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/eP Json Parser.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/eP Json Parser.dll": {}
+        }
       }
     }
   },
@@ -40,11 +50,17 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
+    },
+    "eP Json Parser/1.0.0": {
+      "type": "project",
+      "path": "../eP Json Parser/eP Json Parser.csproj",
+      "msbuildProject": "../eP Json Parser/eP Json Parser.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
-      "Newtonsoft.Json >= 13.0.1"
+      "Newtonsoft.Json >= 13.0.1",
+      "eP Json Parser >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -79,7 +95,11 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\xpoi5\\source\\repos\\json parser test\\eP Json Parser\\eP Json Parser.csproj": {
+              "projectPath": "C:\\Users\\xpoi5\\source\\repos\\json parser test\\eP Json Parser\\eP Json Parser.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -115,7 +135,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300-preview.22154.4\\RuntimeIdentifierGraph.json"
       }
     }
   }

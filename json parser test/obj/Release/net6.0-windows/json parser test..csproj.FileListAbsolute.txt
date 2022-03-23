@@ -17,3 +17,5 @@ C:\Users\xpoi5\source\repos\json parser test\json parser test\obj\Release\net6.0
 C:\Users\xpoi5\source\repos\json parser test\json parser test\obj\Release\net6.0-windows\json parser test..pdb
 C:\Users\xpoi5\source\repos\json parser test\json parser test\obj\Release\net6.0-windows\json parser test..genruntimeconfig.cache
 C:\Users\xpoi5\source\repos\json parser test\json parser test\obj\Release\net6.0-windows\ref\json parser test..dll
+C:\Users\xpoi5\source\repos\json parser test\json parser test\bin\Release\net6.0-windows\eP Json Parser.dll
+C:\Users\xpoi5\source\repos\json parser test\json parser test\bin\Release\net6.0-windows\eP Json Parser.pdb
